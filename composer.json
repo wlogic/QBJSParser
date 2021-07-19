@@ -1,5 +1,6 @@
 {
   "name": "wlogic/qbjs-parser",
+  "type": "symfony-bundle",
   "description": "Parse JSON coming from jQuery QueryBuilder, into database queries.",
   "license": "MIT",
   "homepage": "https://github.com/fourlabsldn/QBJSParser",
